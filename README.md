@@ -12,8 +12,8 @@ Skills: ASP.NET / MVC / C# / Angular / RDBMS / JAVA /  JS / HTML / CSS
 - ⚡ Fun fact:  Music Lover | A Big Fan Of Sci-fi & Superhero Movies/Tv-Series 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Istiaq-Hossain-Shawon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/istiaq-hossain-shawon-64604b86//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/istiaqhossainshawon//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Istiaq-Hossain-Shawon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/istiaq-hossain-shawon-64604b86//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/istiaqhossainshawon/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Istiaq-Hossain-Shawon&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq-Hossain-Shawon&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Istiaq-Hossain-Shawon)  
+![Profile views](https://gpvc.arturio.dev/Istiaq-Hossain-Shawon)  
