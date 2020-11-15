@@ -1,7 +1,5 @@
 ### istiaq!!! 👋
 
-Skills: ASP.NET / MVC / C# / Ninject / JAVA / Spring Integration / Spring Boot / RDBMS / Microsoft SQL Server / PostgreSQL / Angular 6 / AngularJs / JS / HTML / CSS 
-
 - 🔭 I’m currently working on REST-based java microservice with Spring Boot. 
 - 🌱 I’m currently learning asp.net core 
 - 👯 I’m looking to collaborate on Java microservice 
