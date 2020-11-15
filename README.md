@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Istiaq a full Stack Developer from Dhaka,Bangladesh
-I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out ♥ on mail(hossain.ict@gmail.com). Feel free to reach out in case you want to just get in touch also
+### istiaq!!! 👋
 
 Skills: ASP.NET / MVC / C# / Angular / RDBMS / JAVA /  JS / HTML / CSS
 
