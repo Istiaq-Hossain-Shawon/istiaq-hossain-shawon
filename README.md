@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on REST-based java microservice with Spring Boot. 
 - 👯 I’m looking to collaborate on Java microservice 
 - 💬 Ask me about java jwt token authentication rest api 
-- 📫 How to reach me: istiaqhossainshawon@gmail.com 
+- 📫 How to reach me: hossain.ict@gmail.com 
 - ⚡ Fun fact:  Music Lover | An 'Ear with Feet' of Tori Amos | Astrophysics Lover | A Big Fan Of Sci-fi & Superhero Movies/Tv-Series 
 
 
